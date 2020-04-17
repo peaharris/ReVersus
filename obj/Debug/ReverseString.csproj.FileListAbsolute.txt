@@ -1,0 +1,6 @@
+/Users/priscillaharris/Documents/MSSA/Technical Development/MicrosoftTechMentorship/ReverseString/bin/Debug/ReverseString.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/MicrosoftTechMentorship/ReverseString/bin/Debug/ReverseString.pdb
+/Users/priscillaharris/Documents/MSSA/Technical Development/MicrosoftTechMentorship/ReverseString/obj/Debug/ReverseString.csprojAssemblyReference.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/MicrosoftTechMentorship/ReverseString/obj/Debug/ReverseString.csproj.CoreCompileInputs.cache
+/Users/priscillaharris/Documents/MSSA/Technical Development/MicrosoftTechMentorship/ReverseString/obj/Debug/ReverseString.exe
+/Users/priscillaharris/Documents/MSSA/Technical Development/MicrosoftTechMentorship/ReverseString/obj/Debug/ReverseString.pdb
